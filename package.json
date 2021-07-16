@@ -36,5 +36,9 @@
   },
   "files": [
     "index.js"
-  ]
+  ],
+  "dependencies": {
+    "merge": "^2.1.1",
+    "ws": "^7.5.3"
+  }
 }
